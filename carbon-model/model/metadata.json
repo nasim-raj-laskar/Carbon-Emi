@@ -1,0 +1,1 @@
+{"feature_order": ["energy_kwh", "transport_km", "waste_kg"], "interaction_terms": {"energy_transport": "energy_kwh * transport_km", "energy_waste": "energy_kwh * waste_kg"}, "model_type": "XGBRegressor", "version": "1.0"}
