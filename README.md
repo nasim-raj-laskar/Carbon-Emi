@@ -27,35 +27,6 @@ This project was developed as part of a **Hackathon**, demonstrating a practical
 
 ---
 
-## 📁 Project Structure
-
-```
-HackFest-main/
-│
-├── .gitattributes
-├── LICENSE
-├── README.md                    # Project documentation
-│
-├── app2(Backend Server).py      # Flask backend API
-├── xmodel.json                  # Trained XGBoost model
-├── xscaler.pkl                  # Fitted scaler object
-├── metadata.json                # Metadata for input feature ordering
-│
-├── index.html                   # Entry point HTML file
-├── package.json                 # NPM dependencies & scripts
-├── package-lock.json
-├── tailwind.config.js           # Tailwind configuration
-├── postcss.config.js
-├── eslint.config.js             # ESLint rules
-│
-└── src/                         # React source code
-    ├── App.jsx                  # Main React app
-    ├── main.jsx                 # React entry point
-    ├── assets/                  # Images or icons
-    └── components/              # Reusable React components
-```
-
----
 
 ## 🚀 Getting Started
 
